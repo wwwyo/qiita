@@ -1,10 +1,10 @@
 ---
-title: [sentry] monitoring 404
+title: "[sentry] monitoring 404"
 tags:
-  - 'sentry'
-  - 'Next.js'
+  - "sentry"
+  - "Next.js"
 private: false
-updated_at: ''
+updated_at: ""
 id: null
 organization_url_name: null
 slide: false
