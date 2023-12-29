@@ -92,7 +92,7 @@ Next.js へのアクセスを reverse proxy 経由でアクセスしており、
 # まとめ
 
 1. sentry の初期設定を wizard で行った場合はデフォルトで tunnel が設定される
-2. tunnelRoute は　/monitoring に設定され、sentry の captureException などでエラーを捕捉しようとすると、monitoring へのリクエストが飛ぶ。
+2. tunnelRoute は /monitoring に設定され、sentry の captureException などでエラーを捕捉しようとすると、monitoring へのリクエストが飛ぶ。
 3. 404 になる場合は、tunnelRoute の path を見直すことで解決する。
 
 # 参考文献
