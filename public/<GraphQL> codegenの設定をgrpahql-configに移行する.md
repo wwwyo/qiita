@@ -1,11 +1,11 @@
 ---
 title: <GraphQL> graphql-codegen の設定を grpahql-configに移行する
 tags:
-  - 'graphql'
-  - 'typescript'
+  - TypeScript
+  - GraphQL
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-01-07T21:05:39+09:00'
+id: 29b75103b09102ea295b
 organization_url_name: null
 slide: false
 ignorePublish: false
