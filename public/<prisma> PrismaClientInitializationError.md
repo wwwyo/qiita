@@ -1,11 +1,11 @@
 ---
 title: <prisma> PrismaClientInitializationErrorでDBに接続できな苦なった
 tags:
-  - 'prisma'
-  - 'supabase'
+  - prisma
+  - Supabase
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-02-06T02:29:40+09:00'
+id: d2cd1f980706fbebe31b
 organization_url_name: null
 slide: false
 ignorePublish: false
