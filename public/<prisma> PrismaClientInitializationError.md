@@ -31,7 +31,7 @@ PrismaError {
 
 # 要約
 
-Supabase の db 接続アドレスが変更された(厳密にはその後ろで動いている AWS の アドレスが変更された)ことにより、Prisma の初期化に失敗した。
+Supabase の db 接続アドレスが変更されたことにより、Prisma の初期化に失敗した。
 新しいアドレスに自動で書き換わっているので、[Supabase の設定画面](https://supabase.com/dashboard/project/_/settings/database)から、更新された接続情報を取得しプロダクションコードに反映する。
 
 # 前提
