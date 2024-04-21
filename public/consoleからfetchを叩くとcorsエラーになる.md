@@ -42,9 +42,9 @@ network タグから fetch をコピーすると `cache-control: no-cache` と `
 
 下記のいずれかで解決できました。
 
-1. バックエンドの cors 設定で [`Access-Control-Allow-Headers`](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Access-Control-Allow-Headers) に `cache-control` と `pragma` を追加する
+- バックエンドの cors 設定で [`Access-Control-Allow-Headers`](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Access-Control-Allow-Headers) に `cache-control` と `pragma` を追加する
 
-2. console で実行する際に `cache-control` と `pragma` を削除する
+- console で実行する際に `cache-control` と `pragma` を削除する
 
 # まとめ
 
