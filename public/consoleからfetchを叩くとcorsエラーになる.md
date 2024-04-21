@@ -1,12 +1,12 @@
 ---
 title: consoleからfetchを叩くとcorsエラーになる
 tags:
-  - 'js'
-  - 'browser'
-  - 'cors'
+  - JavaScript
+  - CORS
+  - ブラウザ
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-04-21T19:08:36+09:00'
+id: c47ccc20ac0cf9ad3a8f
 organization_url_name: null
 slide: false
 ignorePublish: false
