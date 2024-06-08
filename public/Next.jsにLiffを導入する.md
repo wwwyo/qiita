@@ -1,12 +1,12 @@
 ---
 title: Next.js(Server Components)でもLiffを使いたいっ！
 tags:
-  - 'Next.js'
-  - 'React'
-  - 'Liff'
+  - React
+  - Next.js
+  - LIFF
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-06-09T07:25:26+09:00'
+id: 62887825ef3db2feee93
 organization_url_name: null
 slide: false
 ignorePublish: false
