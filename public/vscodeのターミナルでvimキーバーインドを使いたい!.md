@@ -1,11 +1,11 @@
 ---
 title: vscodeのターミナルでvimキーバーインドを使いたい!
 tags:
-  - 'vscode'
-  - 'vim'
+  - Vim
+  - VSCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-06-08T21:34:47+09:00'
+id: 61970b355b05ee376eec
 organization_url_name: null
 slide: false
 ignorePublish: false
