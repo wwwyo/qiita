@@ -1,12 +1,12 @@
 ---
 title: vscodeのTypeScript型チェックがどうしても動かない
 tags:
-  - 'TypeScript'
-  - 'VSCode'
-  - '型'
+  - TypeScript
+  - 型
+  - VSCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-06-09T00:22:16+09:00'
+id: 9b4af55132bdc5315a6c
 organization_url_name: null
 slide: false
 ignorePublish: false
