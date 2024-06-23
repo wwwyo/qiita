@@ -1,12 +1,12 @@
 ---
 title: vscode上でtypescriptをサクッと動かす
 tags:
-  - 'TypeScript'
-  - 'VSCode'
-  - 'Deno'
+  - TypeScript
+  - VSCode
+  - Deno
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-06-24T00:56:58+09:00'
+id: adeb47891b0c844dd4fd
 organization_url_name: null
 slide: false
 ignorePublish: false
