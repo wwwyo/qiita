@@ -1,10 +1,10 @@
 ---
 title: MappedTypesについて調べてみた
 tags:
-  - 'Typescript'
+  - TypeScript
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-07-28T19:08:56+09:00'
+id: aef2c013dc006edad9f9
 organization_url_name: null
 slide: false
 ignorePublish: false
