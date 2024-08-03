@@ -1,10 +1,10 @@
 ---
 title: Template Literal Typesについて調べてみた
 tags:
-  - 'Typescript'
+  - TypeScript
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-03T18:09:07+09:00'
+id: f1ad6d47f1b6d7b618f0
 organization_url_name: null
 slide: false
 ignorePublish: false
