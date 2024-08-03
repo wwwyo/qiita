@@ -179,3 +179,24 @@ type Uppercase<S extends string> = intrinsic
 intrinsic はコンパイラの内部実装として隠蔽されていることを示す
 
 詳細: https://zenn.dev/uhyo/articles/typescript-intrinsic
+
+## ユースケース例
+
+1. 特定のファイル形式のみ返す関数を作る
+
+```ts
+type FileExtension = 'jpg' | 'jpeg' | 'png' | 'gif'
+type getFile = () => `${string}.${FileExtension}`
+```
+
+2. hex のカラーコードのみ受け取る関数
+
+```ts
+type Darken = (hex: `#${string}`) => `#${string}`
+```
+
+型での表現力が増して良いですね
+
+## まとめ
+
+流石の表現力でした。Template Literal Types を使うことでより堅牢な設計ができるようになりそうです。
