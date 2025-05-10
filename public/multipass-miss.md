@@ -3,8 +3,8 @@ title: Multipassでマウント時に所有者がnobody＆Permission Deniedに�
 tags:
   - multipass
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-05-10T18:00:43+09:00'
+id: f37bdb375f1ee644e491
 organization_url_name: null
 slide: false
 ignorePublish: false
