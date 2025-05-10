@@ -1,11 +1,11 @@
 ---
 title: React 19 アップグレード後に react-testing-library でテストが失敗する問題と解決策
 tags:
-  - 'react'
-  - 'react-testing-library'
+  - React
+  - react-testing-library
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-05-03T14:24:10+09:00'
+id: c12776d64155a8e4aac6
 organization_url_name: null
 slide: false
 ignorePublish: false
