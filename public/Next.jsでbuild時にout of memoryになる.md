@@ -1,13 +1,13 @@
 ---
 title: Next.jsでbuild時にout of memoryになる問題を解決した話
 tags:
-  - 'Next.js'
-  - 'Node.js'
-  - 'Amplify'
-  - 'TypeScript'
+  - Node.js
+  - TypeScript
+  - Next.js
+  - amplify
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-05-23T09:50:09+09:00'
+id: 47adb3b79099b06345a9
 organization_url_name: null
 slide: false
 ignorePublish: false
