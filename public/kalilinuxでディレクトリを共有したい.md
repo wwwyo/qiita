@@ -4,8 +4,8 @@ tags:
   - KaliLinux
   - UTM
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-06-08T16:44:35+09:00'
+id: a78a3787e4fc1c3e7dba
 organization_url_name: null
 slide: false
 ignorePublish: false
