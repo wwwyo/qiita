@@ -1,12 +1,12 @@
 ---
 title: ZedでLSPが動かないと思ったらsecure by defaultが原因だった
 tags:
-  - Zed
-  - LSP
   - エディタ
+  - ZED
+  - LSP
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-19T12:16:43+09:00'
+id: 135a7360db0ab99951b0
 organization_url_name: null
 slide: false
 ignorePublish: false
